@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-23 09:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: templates/wishlist-page.php:27
+msgid "Product Thumbnail"
+msgstr ""
+
+#: templates/wishlist-page.php:28
+msgid "Product name"
+msgstr ""
+
+#: templates/wishlist-page.php:29 templates/wishlist-page.php:71
+msgid "Stock status"
+msgstr ""
+
+#: templates/wishlist-page.php:30 templates/wishlist-page.php:79
+msgid "Quantity"
+msgstr ""
+
+#: templates/wishlist-page.php:31 templates/wishlist-page.php:99
+msgid "Price"
+msgstr ""
+
+#: templates/wishlist-page.php:32
+msgid "Actions"
+msgstr ""
+
+#: templates/wishlist-page.php:56
+msgid "Product"
+msgstr ""
+
+#: templates/wishlist-page.php:66
+msgid "Available on backorder"
+msgstr ""
+
+#: templates/wishlist-page.php:73
+msgid "In Stock"
+msgstr ""
+
+#: templates/wishlist-page.php:75
+msgid "Out of Stock"
+msgstr ""
+
+#: templates/wishlist-page.php:106 templates/wishlist-page.php:107
+msgid "Remove"
+msgstr ""
+
+#: templates/wishlist-page.php:111 templates/wishlist-page.php:115
+#: templates/wishlist-page.php:116
+msgid "Add to cart"
+msgstr ""
+
+#: templates/wishlist-page.php:112
+msgid "Select options"
+msgstr ""
+
+#: templates/wishlist-page.php:136
+msgid "No items currently in your wishlist."
+msgstr ""
+
+#: templates/wishlist-page.php:140
+msgid "Wishlist is available for logged in users only."
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Wishlist"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add a wishlist for your shop users."
+msgstr ""
+
+#. Author of the plugin
+msgid "QS inc"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.querysol.com/wishlist"
+msgstr ""
